@@ -11,6 +11,8 @@ fis3 server 中的默认服务器。基于 express.
 
 * mac下使用nvm的路径：/usr/local/Cellar/nvm/{nvm version}/versions/node/{node version}/lib/node_modules/fis3/node_modules/fis3-server-node
 
+* windows下默认路劲: C:\Users\{userName}\AppData\Roaming\npm\node_modules\fis3\node_modules\fis3-server-node 
+
 * 替换后需要重新启动
 		
 		fis3 server start
